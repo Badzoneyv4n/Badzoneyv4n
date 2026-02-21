@@ -6,7 +6,6 @@
 ### 👋 Yo, I’m @Badzoneyv4n
 - 🧠 I’m all about **AI, algorithmic trading, and blockchain**
 - 📈 Currently working on:
-  - 🤖 **AviAI** – AI system for Aviator game prediction
   - 💸 **BillionsIn** – Machine Learning for Forex Trading
   - 📊 **WealthyTrendPilot** – Bigger system for financial prediction
 - 🔍 I love turning **data into decisions** and **code into cash**
